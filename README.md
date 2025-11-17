@@ -8,6 +8,9 @@ This zip contains:
 - README.md
 - ## 🎥 Demo Video
 Watch the demo here: <https://youtu.be/Zohg8gvjBxc>
+## 📸 Screenshots
+![Demo](project.png)
+
 
 
 Upload these to Kaggle Notebook to run your agent.
